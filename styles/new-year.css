@@ -1,0 +1,30 @@
+.banner{
+    display: flex;
+}
+.banner img{
+    width: 570px;
+    
+}
+/* .resume{
+    text-align: right;
+} */
+.title{
+    color: black;
+    font-size: 65px;
+    font-weight: 600;
+}
+.title-description{
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+}
+.btn-primary{
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: #F15B22;
+    border-radius: 5px;
+    border: 1px solid #F15B22;
+    width: 150px;
+    height: 50px;
+}
