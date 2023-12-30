@@ -28,3 +28,27 @@
     width: 150px;
     height: 50px;
 }
+.person-img-title{
+    display: flex;
+}
+.second-title{
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+}
+.description-ul{
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    
+}
+.resume-again{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.person-img{
+    background-image: url(<path-to-image>), lightgray 50% / cover no-repeat;
+
+    ;
+}
