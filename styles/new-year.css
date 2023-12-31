@@ -48,7 +48,14 @@
   align-items: center;
 }
 .person-img{
-    background-image: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    background-image: url(<path-to-image>), pink 50% / cover no-repeat;
 
-    ;
+    
 }
+.third-title{
+    text-align: center;
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+}
+
