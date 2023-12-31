@@ -58,4 +58,18 @@
     font-size: 40px;
     font-weight: 700;
 }
+.title-icon{
+    display: flex;
+    gap: 30px;
+}
+.title-icon-des{
+    width: 900px;
+    height: 300px;
+    background-color: lightgray;
+    margin: 0 auto;
+
+}
+/* .title-des{
+    text-align: center;
+} */
 
