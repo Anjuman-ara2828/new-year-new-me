@@ -60,7 +60,10 @@
 }
 .title-icon{
     display: flex;
-    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    
 }
 .title-icon-des{
     width: 900px;
@@ -72,4 +75,15 @@
 /* .title-des{
     text-align: center;
 } */
+.sub-title{
+    color: #151414;
+    font-size: 30px;
+    font-weight: 700;
+}
+.sub-des{
+    color: #737272;
+    font-size: ;
+    font-weight: ;
+
+}
 
